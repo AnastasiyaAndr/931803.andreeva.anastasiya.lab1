@@ -1,0 +1,17 @@
+﻿@inject web1.Services.Irngcalc rngcalc
+@{
+    int num1 = rngcalc.GetRand();
+    int num2 = rngcalc.GetRand();
+}
+<h2>AccessServiceDirectly</h2>
+
+<p>Rand value first: @num1</p>
+<p>Rand value second: @num2</p>
+<p>Add:</p>
+<p>@num1 + @num2 = @rngcalc.plus(num1, num2)</p>
+<p>Sub:</p>
+<p>@num1 - @num2 = @rngcalc.minus(num1, num2)</p>
+<p>Mult:</p>
+<p>@num1 * @num2 = @rngcalc.multiply(num1, num2)</p>
+<p>Div:</p>
+<p>@num1 / @num2 = @rngcalc.divide(num1, num2)</p> 

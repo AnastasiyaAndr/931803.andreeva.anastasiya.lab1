@@ -1,0 +1,224 @@
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.exe
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.deps.json
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.runtimeconfig.json
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.runtimeconfig.dev.json
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.pdb
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.Views.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.Views.pdb
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.csprojAssemblyReference.cache
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\staticwebassets\web1.StaticWebAssets.Manifest.cache
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\staticwebassets\web1.StaticWebAssets.xml
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.MvcApplicationPartsAssemblyInfo.cache
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.RazorAssemblyInfo.cache
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.RazorAssemblyInfo.cs
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.AssemblyInfoInputs.cache
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.AssemblyInfo.cs
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.TagHelpers.input.cache
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.TagHelpers.output.cache
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.RazorCoreGenerate.cache
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessServiceDirectly.cshtml.g.cs
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Home\PassUsingModel.cshtml.g.cs
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Home\PassUsingViewBag.cshtml.g.cs
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Home\PassUsingViewData.cshtml.g.cs
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.RazorTargetAssemblyInfo.cache
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.RazorTargetAssemblyInfo.cs
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.Views.pdb
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.csproj.CopyComplete
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.dll
+D:\184\Teaching\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.pdb
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\appsettings.json
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.exe
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.deps.json
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.runtimeconfig.json
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.runtimeconfig.dev.json
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.pdb
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.Views.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\web1.Views.pdb
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.csprojAssemblyReference.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.AssemblyInfoInputs.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.AssemblyInfo.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.csproj.CoreCompileInputs.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.MvcApplicationPartsAssemblyInfo.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.RazorAssemblyInfo.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.RazorAssemblyInfo.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\staticwebassets\web1.StaticWebAssets.Manifest.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\staticwebassets\web1.StaticWebAssets.xml
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\scopedcss\bundle\web1.styles.css
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.TagHelpers.input.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.TagHelpers.output.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.RazorCoreGenerate.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessServiceDirectly.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Home\PassUsingModel.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Home\PassUsingViewBag.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Home\PassUsingViewData.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.RazorTargetAssemblyInfo.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.RazorTargetAssemblyInfo.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.Views.pdb
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.csproj.CopyComplete
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.pdb
+f:\teaching\teaching\Веб всякий\web 2 sem\2.1\web1\obj\Debug\netcoreapp3.1\web1.genruntimeconfig.cache
